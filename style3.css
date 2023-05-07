@@ -1,0 +1,27 @@
+.log{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1310px;
+    
+    height: 1000px;
+    background-color: aquamarine;
+    
+}
+
+.name{
+    margin-bottom: 10px;
+}
+.mk{
+    margin-bottom: 10px;
+}
+.sdt{
+    margin-top: 5px;
+
+}
+.nut{
+    margin-top: 10px;
+}
+.gmail{
+    margin-top: 5px;
+}
